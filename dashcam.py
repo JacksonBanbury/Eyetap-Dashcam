@@ -8,7 +8,8 @@ www.openeyetap.org
 
 YouTube upload implementation thanks to github.com/tokland
 
-To run the script at startup, you can add it to ~/.bashrc
+To run the script at startup, you can add it to ~/.bashrc with the following line:
+python /path/to/dashcam.py
 
 """
 import io
